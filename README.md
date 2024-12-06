@@ -72,8 +72,7 @@ Dự án này là một nền tảng mua bán và đấu giá NFT, cung cấp c�
 
 ## Công nghệ sử dụng
 - **Ngôn ngữ:** TypeScript, JavaScript.  
-- **Frontend:** Next.js, React.js, Tailwind CSS.  
-- **Backend:** Node.js, API Routes.  
+- **Frontend:** Next.js, React.js.  
 - **Công cụ hỗ trợ:** PostCSS, Docker, Fly.io.  
 - **Quản lý mã nguồn:** Git.  
 
